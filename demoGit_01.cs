@@ -10,5 +10,6 @@ namespace demoGit_10
     {
         private string name;
         private string id;
+        private int point;
     }
 }
